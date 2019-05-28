@@ -1,7 +1,7 @@
 # Snake_Game_JS
 
 <p> Simple Snake game using javascript API Canvas.
-    You are freely download and distribute , or do anything you want it.
+    You are freely to download and distribute , or do anything you want it.
     Hope you are having fun.
 </p>
 ## installiation
